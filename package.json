@@ -1,0 +1,19 @@
+{
+    "name": "testgame",
+    "main": "main.js",
+    "productName": "TestGame",
+    "description": "TestGame",
+    "author": "MangoCoder360",
+    "version": "1.0.0",
+    "dependencies": {
+      
+    },
+    "devDependencies": {
+      "electron": "8.2.5"
+    },
+    "build": {
+        "directories": {
+            "buildResources": "buildResources"
+        }
+    }
+}
